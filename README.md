@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luiz Claudio. JavaScript enginner and Graduating in Medicine
+- 👋 Hi, I’m Luiz Claudio. JavaScript Engineer and Graduating in Medicine
 - 💞️ I’m looking to collaborate on progress in the integration and expansion of biomedical sciences and informatics interfaces. My target is Medicine 4.0 - Application of artificial intelligence and machine learning to optimize diagnoses, treatments and positively impact the quality of life of the population.
 
 -  ✨ My Most Notable Skills:
