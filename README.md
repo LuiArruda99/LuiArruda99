@@ -12,6 +12,11 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 
+
+[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=luiarruda99&theme=dark&show_icons=true&count_private=true)](https://github.com/LuiArruda99)
+
+
+
 <!---
 LuiArruda99/LuiArruda99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
