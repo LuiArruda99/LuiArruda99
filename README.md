@@ -12,7 +12,8 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 
- [![Luiz Claudio's github stats](https://github-readme-stats.vercel.app/api?username=luiarruda99&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/LuiArruda99)
+ 
+ ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiarruda99&show_icons=true&theme=tokyonight)
 
 
 
